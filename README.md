@@ -6,8 +6,9 @@ This repository contains an end-to-end business intelligence dashboard project f
 ## 🚀 Contents  
 - `TechHub_Sales_Data.csv` — raw sales dataset.  
 - `TechHub_Customers.csv` — raw customer dataset.  
-- `TechHub_Products.csv` — raw product dataset.  
-- `BI Dashboard Report.pdf` — a short non-technical report summarising insights and recommendations.  
+- `TechHub_Products.csv` — raw product dataset.
+- `BI Dashboard Report.pdf` — a short non-technical report summarising insights and recommendations.
+- `W4_Tableau_Workbook.twbx`— a Tableau Notebook containing the full dashboard, as well as additional charts.
 - **Interactive Tableau Dashboard (Public Link):**  
   https://public.tableau.com/views/W4_Tableau_Workbook/TechHubRetailExecutiveDashboard
 
@@ -15,7 +16,7 @@ This repository contains an end-to-end business intelligence dashboard project f
 - Cleaned and preprocessed sales, customer, and product datasets.  
 - Combined datasets into a unified data model for analysis and dashboarding.  
 - Designed and built an executive-level Tableau dashboard showcasing revenue trends, customer behaviour, and product performance.  
-- Presented actionable insights and strategic recommendations for 2025 planning.  
+- Presented actionable insights and strategic recommendations for business planning.  
 
 ## 📈 Main Insights & Highlights  
 *(See the full report for detailed findings)*  
